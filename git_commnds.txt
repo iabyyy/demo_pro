@@ -16,3 +16,22 @@ _____________
 git add .
 git commit -m "commit label"
 git push
+
+
+branch create
+______________ 
+git branch branchname 
+git checkout branchname
+(git push -u origin branchname)
+
+
+
+clone
+_____________
+
+git clone "repo url"
+
+
+pull 
+_____________
+git pull "cloned url"
