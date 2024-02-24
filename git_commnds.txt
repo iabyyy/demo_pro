@@ -16,3 +16,11 @@ _____________
 git add .
 git commit -m "commit label"
 git push
+
+To create branch like master 
+_____________________________
+
+
+git branch branchname
+git checkout branchname 
+(git push -u origin branchname)
